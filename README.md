@@ -16,3 +16,4 @@ Enables provisoning accounts in Active Directory domains that require complex pa
                     </outbound>
                 </password>
             </credentials>
+accounttask.xml and grouptask.xml set up the sync processes for the Active Directory resource. Just change the OID to your resources OID
